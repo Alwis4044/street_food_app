@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+
+    <item
+        android:id="@+id/add"
+
+        android:title="Show Food"
+        app:showAsAction="never"
+
+        />
+    <item
+        android:id="@+id/phistory"
+
+        android:title="Get Notification"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/pahistory"
+
+        android:title="Show Top Food"
+        />
+
+
+</menu>
